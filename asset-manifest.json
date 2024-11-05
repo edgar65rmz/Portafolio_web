@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Portafolio_web/static/css/main.2ad25572.css",
+    "main.js": "/Portafolio_web/static/js/main.129217bf.js",
+    "static/media/grupoLias.png": "/Portafolio_web/static/media/grupoLias.005f44cc2a77fe010707.png",
+    "static/media/perfil.JPG": "/Portafolio_web/static/media/perfil.6c5e3f574353e2f1dc9e.JPG",
+    "static/media/Edgar_Ramirez_Galindo_ISC.pdf": "/Portafolio_web/static/media/Edgar_Ramirez_Galindo_ISC.ea1a068ca8b82e0fde3b.pdf",
+    "static/media/logo.jpg": "/Portafolio_web/static/media/logo.0c252247c774bab3c96e.jpg",
+    "static/media/segmich.png": "/Portafolio_web/static/media/segmich.a1cb45e7cffffbea4228.png",
+    "static/media/sisogem.png": "/Portafolio_web/static/media/sisogem.38c62a24a07f310975b4.png",
+    "static/media/background.jpg": "/Portafolio_web/static/media/background.a4aedd8350dd5666f127.jpg",
+    "static/media/rec.jpg": "/Portafolio_web/static/media/rec.3e56d77541bc0c9ec1f0.jpg",
+    "index.html": "/Portafolio_web/index.html",
+    "main.2ad25572.css.map": "/Portafolio_web/static/css/main.2ad25572.css.map",
+    "main.129217bf.js.map": "/Portafolio_web/static/js/main.129217bf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ad25572.css",
+    "static/js/main.129217bf.js"
+  ]
+}
